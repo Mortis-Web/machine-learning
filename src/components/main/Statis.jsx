@@ -14,7 +14,7 @@ const Statis = () => {
     });
 
   return (
-    <section className="relative isolate overflow-x-clip bg-(--offWhite) py-10 text-(--darkText) lg:py-25 dark:bg-(--darkerBG) dark:text-white">
+    <section className="relative isolate overflow-x-clip bg-(--offWhite) py-25 text-(--darkText) lg:py-25 dark:bg-(--darkerBG) dark:text-white">
 
       <img
         src={ball}
